@@ -2,6 +2,8 @@
 
 Bienvenido al repositorio público de **JairoCodeLabs**, donde comparto mis proyectos de desarrollo, automatización y tecnología aplicada. Aquí encontrarás una colección de soluciones reales desarrolladas con lenguajes como **HTML**, **CSS**, **JavaScript**, **React**, **Python**, entre otros.
 
+🔗 **Repositorio oficial:** [https://github.com/JairoCodeLabs/proyectos](https://github.com/JairoCodeLabs/proyectos)
+
 ---
 
 ## 🧠 ¿Qué es JairoCodeLabs?
